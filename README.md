@@ -9,20 +9,19 @@
 * the gene flow
 * Overview of our study
 
-[Crop-to-wild gene flow, introgression and possible fitness effects of transgenes](https://www.cambridge.org/core/journals/environmental-biosafety-research/article/croptowild-gene-flow-introgression-and-possible-fitness-effects-of-transgenes/6CAAF9128851C433A3F4288AF286F781)
+* 2003_Review[Crop-to-wild gene flow, introgression and possible fitness effects of transgenes](https://www.cambridge.org/core/journals/environmental-biosafety-research/article/croptowild-gene-flow-introgression-and-possible-fitness-effects-of-transgenes/6CAAF9128851C433A3F4288AF286F781)
   - The production of F1 hybrids between crops and their wild relatives: insights into the nature and strength of reproductive barriers
   - Fitness of wild crop hybrids
   - Fitness effects of transgenes
 
-* 2011_Impact of Interspecific Hybridization between Crops and Weedy Relatives on the Evolution of Flowering Time in Weedy Phenotypes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0014649#s4)
+* 2011_[mpact of Interspecific Hybridization between Crops and Weedy Relatives on the Evolution of Flowering Time in Weedy Phenotypes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0014649#s4)
   - Three types of Trangenic plants: Bt-transgenic B. napus crop plants, Bt-transgenic B. napus × B. rapa F1 hybrids, and first-generation backcrosses (B. rapa ×F1 hybrids)
   - Over 20 unique seed and 20 unique pollen parents were used to produce each of the three types
   - B. rapa served as seed parents for the F1 and BC populations of B. napus were all homozygous of Bt-GFP insertion. F1 plants are all hemizygous. 
   - The BC generation was expexted to consist of an equal mixture of hemizygotes and null homozygotes for the insertion
   - Transgenic B. napus (Wester) Btcry1AC gene
   - Every fourth day, all open flowers on all plants were hand pollinated-no natural polliantors in the Greenhouse
-  - This study has assesed the impact of interspecific hybridization 
-
+  - This study has assesed the impact of interspecific hybridization of weedy individuals which is flowered later and for longer periods were more likely to receive transgenic pollen transgeneic crops and F1 hybrids. wider stems are likely to receive transgenic pollens, transgene and maternal genes promoting late flowering time, long flowering periods, stem thickening, preferentially associated in the offspring of weedy mothers. weedy plants produced fewer seeds with the highest probability of hybridization. maternal weeds that flowered late and for long periods are less fit. Weedy plants are likely to alter phenological difference than transgenic palnts, altering the fitness of hybridizing weeds. 
 
 # 1. Brassica rapa x B. napus (GM) (F1 to F4)
 For Ref only: [Fitness of F1 hybrids between weedy Brassica rapa and oilseed rape (B. napus)](https://www.nature.com/articles/6884240)
@@ -135,7 +134,10 @@ Warwik et al. 2008_[Do escaped transgenes persist in nature? The case of an herb
   - in F1 hybrids exhibited intermediate characteristics of their parents in seed germination and dormancy with realtively high
 
 
-
+[Roy 1984_Interspecific transfer of Brassica juncea-type high blackleg resistance to Brassica napus. Euphytica 33: 295–303]
+  - F2 to F7 derived from F1 (B.juncea x B.napus) were obtained 
+  - Liu et al. 2010, Roy 1980 was not ontained from F1 to F3
+ 
 
 # 5. B.juncea x F1 (B.juncea x B. napus (GM)) (BC1 to BC4)
 
@@ -169,8 +171,9 @@ Warwik et al. 2008_[Do escaped transgenes persist in nature? The case of an herb
   -  The survival fitness of the progenies indicates a lower gene flow risk, transgene located on C rather than A chromosome of B. napus.
   -  During self pollination of the BC generations with GM oilseed rape and wild B. juncea, the genetic processess is complex mitigated the gene flow through the breeding of transgenic allopolyploid crops due to transgenes is inserted into alien chromosomes.
 
-
-
+* Fertility of BC1, BC2, and BC3 generations from F1 (B. juncea × B. napus) × B. juncea was reported by Song et al. (2010) and Tsuda et al. (2012b). 
+*  However, seed productivity of BC1 [(B. juncea × B. napus) × B. napus] was not reported. It is possible that BC2 produced by reciprocal cross-pollination between BC1 and B. napus was extremely low.
+*  
 
 
 # 6. B.napus x B. juncea (F1 hybrids)
@@ -192,7 +195,9 @@ Warwik et al. 2008_[Do escaped transgenes persist in nature? The case of an herb
   - The herbicide selection F1 to F4 progeny of B. juncea x B. napus (glyphosate tolerant, RT73)) B. juncea x B. napus (glufosinate-tolerant, HCN28). 
   - The occurance of nature genetic processes during self pollination, backcross generations of transgeneic B. napus and wild B. juncea, the transgenes located on A or C chromosome were mixoploids. The progenies shows that, chromosome pairing of pollen mother cells are more irregular from the cultivar may transgene located on A chromosome.
    
-
+* Review_[Possibilities of direct introgression from Brassica napus to B. juncea and indirect introgression from B. napus to related Brassicaceae through B. juncea](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4031112/)
+  - Spontaneous hybridization frequency between B. juncea and B. napus (B. juncea x B. napus, mixed cultivation and isolated cultivation; Tsuda et al. (2012a), Heenan et al. (2007), Jørgensen et al. (1998), Huiming et al. (2007), Liu et al. (2010), Bing et al. (1991, 1996))
+  - B. napus × B. juncea mixed cultivation (Heenan et al. (2007), Jørgensen et al. (1998), Bing et al. (1991, 1996))
 
 
 
