@@ -14,7 +14,7 @@
   - Fitness of wild crop hybrids
   - Fitness effects of transgenes
 
-* 2011_[mpact of Interspecific Hybridization between Crops and Weedy Relatives on the Evolution of Flowering Time in Weedy Phenotypes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0014649#s4)
+* 2011_[Impact of Interspecific Hybridization between Crops and Weedy Relatives on the Evolution of Flowering Time in Weedy Phenotypes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0014649#s4)
   - Three types of Trangenic plants: Bt-transgenic B. napus crop plants, Bt-transgenic B. napus × B. rapa F1 hybrids, and first-generation backcrosses (B. rapa ×F1 hybrids)
   - Over 20 unique seed and 20 unique pollen parents were used to produce each of the three types
   - B. rapa served as seed parents for the F1 and BC populations of B. napus were all homozygous of Bt-GFP insertion. F1 plants are all hemizygous. 
