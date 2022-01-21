@@ -177,7 +177,9 @@ Warwik et al. 2008_[Do escaped transgenes persist in nature? The case of an herb
 
 * Fertility of BC1, BC2, and BC3 generations from F1 (B. juncea × B. napus) × B. juncea was reported by Song et al. (2010) and Tsuda et al. (2012b). 
 *  However, seed productivity of BC1 [(B. juncea × B. napus) × B. napus] was not reported. It is possible that BC2 produced by reciprocal cross-pollination between BC1 and B. napus was extremely low.
-*  
+  
+* Song et al. 2010_[Potential gene Xow of two herbicide-tolerant transgenes from oilseed rape to wild B. juncea var. gracilis](https://link.springer.com/content/pdf/10.1007/s00122-010-1271-3.pdf)
+
 
 
 # 6. B.napus x B. juncea (F1 hybrids)
@@ -194,7 +196,7 @@ Warwik et al. 2008_[Do escaped transgenes persist in nature? The case of an herb
   - He suggested that proteomic approaches can assess the protein abundance changes in the Bt-transgeneic B. napus and wild mustard seeds of B. juncea. Here, found 13 unique genes were identified from BJtBN x BJBN (B. juncea x GM B. napus x B.juncea x B.napus). Spotted proteins was not toxic or nutritionally harmful to human health, unintended effects from trasngene flow within the natural variability of hybridization.
 
 
-* Song et al. 2021_[Potential for gene flow from genetically modified Brassica napus on the territory of Russia](https://www.frontiersin.org/articles/10.3389/fpls.2021.670209/full)
+* Song et al. 2021_[Potential for gene flow from genetically modified Brassica napus on the territory of Russia](https://link.springer.com/article/10.1007%2Fs10661-018-6946-2)
 
   - The herbicide selection F1 to F4 progeny of B. juncea x B. napus (glyphosate tolerant, RT73)) B. juncea x B. napus (glufosinate-tolerant, HCN28). 
   - The occurance of nature genetic processes during self pollination, backcross generations of transgeneic B. napus and wild B. juncea, the transgenes located on A or C chromosome were mixoploids. The progenies shows that, chromosome pairing of pollen mother cells are more irregular from the cultivar may transgene located on A chromosome.
