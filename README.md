@@ -24,18 +24,22 @@
   - This study has assesed the impact of interspecific hybridization of weedy individuals which is flowered later and for longer periods were more likely to receive transgenic pollen transgeneic crops and F1 hybrids. wider stems are likely to receive transgenic pollens, transgene and maternal genes promoting late flowering time, long flowering periods, stem thickening, preferentially associated in the offspring of weedy mothers. weedy plants produced fewer seeds with the highest probability of hybridization. maternal weeds that flowered late and for long periods are less fit. Weedy plants are likely to alter phenological difference than transgenic palnts, altering the fitness of hybridizing weeds. 
 
 # 1. Brassica rapa x B. napus (GM) (F1 to F4)
-For Ref only: [Fitness of F1 hybrids between weedy Brassica rapa and oilseed rape (B. napus)](https://www.nature.com/articles/6884240)
-              [Fitness of backcross and F2 hybrids between weedy Brassica rapa and oilseed rape (B. napus)](https://www.nature.com/articles/6884250)
+* For Ref only Non Transgenic material cross combinations
+
+  -[Fitness of F1 hybrids between weedy Brassica rapa and oilseed rape (B. napus)](https://www.nature.com/articles/6884240)
+  
+  -[Fitness of backcross and F2 hybrids between weedy Brassica rapa and oilseed rape (B. napus)](https://www.nature.com/articles/6884250)
               
 * Rose et. al. 2009_[Genetic load and transgenic mitigating genes in transgenic Brassica rapa (field mustard) × Brassica napus (oilseed rape) hybrid populations](https://bmcbiotechnol.biomedcentral.com/articles/10.1186/1472-6750-9-93#Abs1)
 
   - B. napus cv. 'Westar' transgenic event (Halfhill et al. 2001) "GT lines"
   -  GT1(BR and transgenic BN) , GT5(BR and transgenic BN), GT9(BR and transgenic BN)
   -  Non transgenic B. rapa x B. napus cv. Westar used as control
+  -  The author has test the genetic load on B. rapa x B. napus allels that are unintentioally transferred with the transgene into the genome of the weed host. So test with interspecific and intraspecific competition environement to the assess the fitness of genetic load with Brassica species. on the other hand utilizing a transgenic mitigation strategy to reduce the numebr of frequency with transgeneic progeny under field condition, this would be a stronger mitigator of transgene perisitence than random transgene site mediated genetic load.  
   -  
 
 * Tu et al. 2020 [Morphological and genetic characteristics of F1 hybrids introgressed from Brassica napus to B. rapa in Taiwan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6974233/)
-  - B. napus (4 cultivars imported from china) x B. rapa ( 3 taiwan varieties)
+  - B. napus (GM synthetic seed material (Ref:Hsieh et al. 2013 not found) H (4 cultivars imported from china) x B. rapa ( 3 taiwan varieties)
   - To produce F1 hybrids B.rapa as seed parent
   - This study explored morphological and molecular characteristics were utilized to identify the hybrids in taiwan. During the F1 hybridization events the colors of the rosette and stem leaves were more similar to B. napus varieties than B. rapa. The intergrossion was more stable and reproduceible characters for F1 hybrids. Using SRAP marker 1100-bp amplicon found only in B. napus varieties and F1 hybrids introgressed from B. napus to B. rapa.  
   
@@ -66,7 +70,7 @@ The hybridization rate between wild population of B. rapa and HR B. napus in fie
   - BC1 seeds: F1 hybrids x B. rapa 
   - The authors has investigated the early flowering phenomenon and assesed their sustainability in F1 hybrids. BrAGL20 gene has been transformed from B. napus to F1 hyrbids were found slightly later than early flowring, seed size were intermediated between the parental lines and pollen size were exhibited abnormal size. Furthermore, quantified erucic acid and fatty acid composition in F1 hybrid. The outcrossing rate of BC1 progeny as 50%. 
 
-* Bautista et al. 2004_[HYBRIDIZATION STUDY BETWEEN GENETICALLY MODIFIED BRASSICA NAPUS AND NON-GENETICALLY MODIFIED B. NAPUS AND B. RAPA](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NHEERL&dirEntryId=89276)
+* Bautista et al. 2004_[HYBRIDIZATION STUDY BETWEEN GENETICALLY MODIFIED BRASSICA NAPUS AND NON-GENETICALLY MODIFIED B. NAPUS AND B. RAPA](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NHEERL&dirEntryId=89276) [ISHS conferenc paper presentation Joint Meeting of the 14th Crucifer Genetics Workshop and the 4th ISHS Sympos. on Brassicas, Daijon, Korea, Oct. 24-28, 2004]
   - Gene exchange between cultivated crops and wild species
   - Reciprocal crosses of GM canola B.napus (cv.raider) x B. rapa
   In this study, ecological effects of gene flow study in GM canola, B. rapa, with non GM B. napus and B. rapa using reciprocal crosses. In F1 hybrids seeds obatined higher percentage of viable seeds of the GM parent while using as pollen donor. Further will be evaluted in the succeeding F2 and Backcross populations.
