@@ -1,5 +1,6 @@
 # CrossCombination
 
+
 #Overview
 
 [Special Issue "Distant-Hybridization in Plant Breeding" MDPI_Plants](https://www.mdpi.com/journal/plants/special_issues/Distant_Hybridization_Plant_Breeding)
@@ -58,6 +59,10 @@
 
 The hybridization rate between wild population of B. rapa and HR B. napus in field was higher and showed greater variability (0-53%) between plant to plant. The risk rate (7-8%) of hybridization was considered where B. rapa and B. napus presence the hybridization will occur. The B.rapa plants doesnot need large volumes of pollen from a B. napus canola pollen pressure are highly compatiable with self incompatible plants like B.rapa. The author has found B. rapa x B. napus F1 hybrids were reduced, though shows high level of fertility assessed through the pollen viability and able to backcross with B. rapa. 
 
+* Allainguillaume et al. 2006_[Fitness of hybrids between rapeseed (Brassica napus) and wild Brassica rapa in natural habitats](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-294X.2006.02856.x)
+* Pallett et al. 2006_[Within-population variation in hybridisation and transgene transfer between wild Brassica rapa and Brassica napus in the UK](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1744-7348.2006.00049.x)
+    -  B. rapa chosen as the female parent (pollen recipient) x male parent (pollen donor) was B. napus cv. ‘Westar’ containing a capsid-coding sequence from TuMV (homozygous)
+    -  controls to validate PCR testing, Brassica oleracea seedlings
 
 # 2. Brassica napus (GM) x B.rapa (F1 to F4)
 
@@ -90,9 +95,9 @@ Warwik et al. 2008_[Do escaped transgenes persist in nature? The case of an herb
 
 * Lee Bum-Kyu and Soo-In Sohn [Investigation of gene transfer through pollen from herbicide-resistant rapeseed to hybrids. Pollen-mediated Gene Flow from Herbicide Resistant Oilseed Rape (Brassica napus L.) to Its Relatives](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002485235
 
-
-
-
+* Dong et al. 2018[GIS assessment of the risk of gene flow from Brassica napus to its wild relatives in China](https://link.springer.com/article/10.1007/s10661-018-6753-9#Abs1)
+* Scott et al. 1998[Transgene risk is low](https://www.nature.com/articles/30642)
+* Kossler et al. 2004_[Impact of ecological factors on the initial invasion of Bt transgenes into wild populations of birdseed rape (Brassica rapa)](https://link.springer.com/content/pdf/10.1007/s00122-004-1696-7.pdf)
 # 3. B.rapa x F1 (B.rapa x B.napus (GM))(BC1 to BC4)
 
 * Zhu et al.2004_[Inheritance of GFP-Bt transgenes from Brassica napus in backcrosses with three wild B. rapa accessions](https://www.ebr-journal.org/articles/ebr/pdf/2004/01/E4102.pdf)
@@ -124,6 +129,12 @@ Warwik et al. 2008_[Do escaped transgenes persist in nature? The case of an herb
   - The BC1 plants more similar to B. rapa.. BC1 able to produce BC2 plants, indistinguishable from the B. rapa parent plants
   - selected through hygromycin plants were tested with Bt-specific primers. BC1 and BC2 plants got positive PCR product
   - 
+* Allison et al. 2003_[Costs of transgenic herbicide resistance introgressed from Brassica napus into weedy B. rapa](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-294x.1999.00596.x)
+
+* Metz et al. 1996_[The impact on biosafety of the phosphinothricin-tolerance transgene in inter-specific B. rapa3B. napus hybrids and their successive backcrosses](https://link.springer.com/content/pdf/10.1007/s001220050581.pdf)
+    - Two phosphinothricin (PPT)-tolerant oilseed rape (B. napus) transgenic R1 populations, obtained after selfing two primary transformants of cv Drakkar
+    - populations were designated TP2 and TP3 (Independent tranformation events))
+    - Non-transgenic oilseed rape cv Drakkar, self-incompatible Pak choi B. rapa Chinensis group (B. chinensis), origin China, accession umber BC30.02 and self-compatible Chinese cabbage B. rapa Pekinensis group (B. pekinensis), origin China, accession number BC20.08_ were used as crossing parents.
 
 # 4. B.juncea x B.napus (GM) (F1 to F4)
 
