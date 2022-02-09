@@ -23,7 +23,7 @@
   - Transgenic B. napus (Wester) Btcry1AC gene
   - Every fourth day, all open flowers on all plants were hand pollinated-no natural polliantors in the Greenhouse
   - This study has assesed the impact of interspecific hybridization of weedy individuals which is flowered later and for longer periods were more likely to receive transgenic pollen transgeneic crops and F1 hybrids. wider stems are likely to receive transgenic pollens, transgene and maternal genes promoting late flowering time, long flowering periods, stem thickening, preferentially associated in the offspring of weedy mothers. weedy plants produced fewer seeds with the highest probability of hybridization. maternal weeds that flowered late and for long periods are less fit. Weedy plants are likely to alter phenological difference than transgenic palnts, altering the fitness of hybridizing weeds. 
-
+ref:[The Biology of Brassica napus L. (Canola/Rapeseed)](https://inspection.canada.ca/plant-varieties/plants-with-novel-traits/applicants/directive-94-08/biology-documents/brassica-napus-l-/eng/1330729090093/1330729278970)
 # 1. Brassica rapa x B. napus (GM) (F1 to F4)
 * For Ref only Non Transgenic material cross combinations
 
@@ -98,6 +98,8 @@ Warwik et al. 2008_[Do escaped transgenes persist in nature? The case of an herb
 * Dong et al. 2018[GIS assessment of the risk of gene flow from Brassica napus to its wild relatives in China](https://link.springer.com/article/10.1007/s10661-018-6753-9#Abs1)
 * Scott et al. 1998[Transgene risk is low](https://www.nature.com/articles/30642)
 * Kossler et al. 2004_[Impact of ecological factors on the initial invasion of Bt transgenes into wild populations of birdseed rape (Brassica rapa)](https://link.springer.com/content/pdf/10.1007/s00122-004-1696-7.pdf)
+* AMMITZBØLL et al. 2005_[Transgene expression and fitness of hybridsbetween GM oilseed rape and Brassica rapa](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/87D8EB7C84B64D3792B9BCD97CFF2FB8/S1635792205000102a.pdf/transgene-expression-and-fitness-of-hybrids-between-gm-oilseed-rape-and-brassica-rapa.pdf)
+* Daurova et al. 2020_[Doubled haploids of interspecific hybrids between Brassica napus and Brassica rapa for canola production with valuable breeding traits](https://www.ocl-journal.org/articles/ocl/pdf/2020/01/ocl200032.pdf)
 # 3. B.rapa x F1 (B.rapa x B.napus (GM))(BC1 to BC4)
 
 * Zhu et al.2004_[Inheritance of GFP-Bt transgenes from Brassica napus in backcrosses with three wild B. rapa accessions](https://www.ebr-journal.org/articles/ebr/pdf/2004/01/E4102.pdf)
@@ -128,7 +130,8 @@ Warwik et al. 2008_[Do escaped transgenes persist in nature? The case of an herb
   - Six F1 hybrids lines were able to produce transgenic plants in the BC1 generation
   - The BC1 plants more similar to B. rapa.. BC1 able to produce BC2 plants, indistinguishable from the B. rapa parent plants
   - selected through hygromycin plants were tested with Bt-specific primers. BC1 and BC2 plants got positive PCR product
-  - 
+
+* Halfill et al. 2004_[Hybridization and backcrossing between transgenic oilseed rape and two related weed species under field conditions](https://www.ebr-journal.org/articles/ebr/pdf/2004/02/ebr0301.pdf)
 * Allison et al. 2003_[Costs of transgenic herbicide resistance introgressed from Brassica napus into weedy B. rapa](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-294x.1999.00596.x)
 
 * Metz et al. 1996_[The impact on biosafety of the phosphinothricin-tolerance transgene in inter-specific B. rapa3B. napus hybrids and their successive backcrosses](https://link.springer.com/content/pdf/10.1007/s001220050581.pdf)
