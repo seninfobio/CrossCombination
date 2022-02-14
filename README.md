@@ -64,6 +64,11 @@ The hybridization rate between wild population of B. rapa and HR B. napus in fie
     -  B. rapa chosen as the female parent (pollen recipient) x male parent (pollen donor) was B. napus cv. ‘Westar’ containing a capsid-coding sequence from TuMV (homozygous)
     -  controls to validate PCR testing, Brassica oleracea seedlings
 
+
+
+
+
+
 # 2. Brassica napus (GM) x B.rapa (F1 to F4)
 
 * Sohn et al. 2016 [Characteristics Analysis of F1 Hybrids between Genetically Modified Brassica napus and B. rapa](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162103)
@@ -100,6 +105,8 @@ Warwik et al. 2008_[Do escaped transgenes persist in nature? The case of an herb
 * Kossler et al. 2004_[Impact of ecological factors on the initial invasion of Bt transgenes into wild populations of birdseed rape (Brassica rapa)](https://link.springer.com/content/pdf/10.1007/s00122-004-1696-7.pdf)
 * AMMITZBØLL et al. 2005_[Transgene expression and fitness of hybridsbetween GM oilseed rape and Brassica rapa](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/87D8EB7C84B64D3792B9BCD97CFF2FB8/S1635792205000102a.pdf/transgene-expression-and-fitness-of-hybrids-between-gm-oilseed-rape-and-brassica-rapa.pdf)
 * Daurova et al. 2020_[Doubled haploids of interspecific hybrids between Brassica napus and Brassica rapa for canola production with valuable breeding traits](https://www.ocl-journal.org/articles/ocl/pdf/2020/01/ocl200032.pdf)
+
+
 # 3. B.rapa x F1 (B.rapa x B.napus (GM))(BC1 to BC4)
 
 * Zhu et al.2004_[Inheritance of GFP-Bt transgenes from Brassica napus in backcrosses with three wild B. rapa accessions](https://www.ebr-journal.org/articles/ebr/pdf/2004/01/E4102.pdf)
@@ -131,7 +138,19 @@ Warwik et al. 2008_[Do escaped transgenes persist in nature? The case of an herb
   - The BC1 plants more similar to B. rapa.. BC1 able to produce BC2 plants, indistinguishable from the B. rapa parent plants
   - selected through hygromycin plants were tested with Bt-specific primers. BC1 and BC2 plants got positive PCR product
 
+Halfhill et al. 2003_[Additive transgene expression and genetic introgression in multiple green-fluorescent protein transgenic crop × weed hybrid generations](https://link.springer.com/article/10.1007/s00122-003-1397-7#Sec3)
+  - Primary transgenic events transformed with a plasmid-containing GFP (Aequorea victoria, mGFP5er variant) and Bt (Bacillus thuringiensis, synthetic Bt crylAc)
+  - Nine transgenic GT (GT 1–9) lines and three GFP (GFP 1–3) were used in this study
+  - Wild accessions of B. rapa were collected as naturally occurring populations
+  - B. rapa accession x canola event to F1 hybrid (B. rapa Calif., 2974, 2975×GT 1-9)
+  - B. rapa x F1 prodeced the BC1F1
+  - B. rapa pollen recipients
+  - 27 BC1F1 GFP/bt hybrid generation and 9 GFP hybrid generations (B. rapa Calif., 2974, 2975×GFP 1-3)
+
 * Halfill et al. 2004_[Hybridization and backcrossing between transgenic oilseed rape and two related weed species under field conditions](https://www.ebr-journal.org/articles/ebr/pdf/2004/02/ebr0301.pdf)
+
+
+
 * Allison et al. 2003_[Costs of transgenic herbicide resistance introgressed from Brassica napus into weedy B. rapa](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-294x.1999.00596.x)
 
 * Metz et al. 1996_[The impact on biosafety of the phosphinothricin-tolerance transgene in inter-specific B. rapa3B. napus hybrids and their successive backcrosses](https://link.springer.com/content/pdf/10.1007/s001220050581.pdf)
