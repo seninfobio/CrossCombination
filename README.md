@@ -24,6 +24,7 @@
   - Every fourth day, all open flowers on all plants were hand pollinated-no natural polliantors in the Greenhouse
   - This study has assesed the impact of interspecific hybridization of weedy individuals which is flowered later and for longer periods were more likely to receive transgenic pollen transgeneic crops and F1 hybrids. wider stems are likely to receive transgenic pollens, transgene and maternal genes promoting late flowering time, long flowering periods, stem thickening, preferentially associated in the offspring of weedy mothers. weedy plants produced fewer seeds with the highest probability of hybridization. maternal weeds that flowered late and for long periods are less fit. Weedy plants are likely to alter phenological difference than transgenic palnts, altering the fitness of hybridizing weeds. 
 ref:[The Biology of Brassica napus L. (Canola/Rapeseed)](https://inspection.canada.ca/plant-varieties/plants-with-novel-traits/applicants/directive-94-08/biology-documents/brassica-napus-l-/eng/1330729090093/1330729278970)
+[Parental Selection of Hybrid Breeding Based On Maternal and Paternal Inheritance of Traits in Rapeseed (Brassica napus L.)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103165#s3)
 # 1. Brassica rapa x B. napus (GM) (F1 to F4)
 * For Ref only Non Transgenic material cross combinations
 
