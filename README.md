@@ -67,11 +67,6 @@ The hybridization rate between wild population of B. rapa and HR B. napus in fie
 
 
 
-
-
-
-# 2. Brassica napus (GM) x B.rapa (F1 to F4)
-
 * Sohn et al. 2016 [Characteristics Analysis of F1 Hybrids between Genetically Modified Brassica napus and B. rapa](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162103)
   - B. napus 'Youngsan' (Early flowering) x B. rapa L. ssp. pekinensis 'jangkang' 
   - Obtained F1 hybrids 
@@ -80,6 +75,11 @@ The hybridization rate between wild population of B. rapa and HR B. napus in fie
   - To obtain F2 seeds, F1 plants were self pollinated 
   - BC1 seeds: F1 hybrids x B. rapa 
   - The authors has investigated the early flowering phenomenon and assesed their sustainability in F1 hybrids. BrAGL20 gene has been transformed from B. napus to F1 hyrbids were found slightly later than early flowring, seed size were intermediated between the parental lines and pollen size were exhibited abnormal size. Furthermore, quantified erucic acid and fatty acid composition in F1 hybrid. The outcrossing rate of BC1 progeny as 50%. 
+
+
+# 2. Brassica napus (GM) x B.rapa (F1 to F4)
+
+
 
 * Bautista et al. 2004_[HYBRIDIZATION STUDY BETWEEN GENETICALLY MODIFIED BRASSICA NAPUS AND NON-GENETICALLY MODIFIED B. NAPUS AND B. RAPA](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NHEERL&dirEntryId=89276) [ISHS conferenc paper presentation Joint Meeting of the 14th Crucifer Genetics Workshop and the 4th ISHS Sympos. on Brassicas, Daijon, Korea, Oct. 24-28, 2004]
   - Gene exchange between cultivated crops and wild species
