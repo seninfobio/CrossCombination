@@ -75,7 +75,13 @@ The hybridization rate between wild population of B. rapa and HR B. napus in fie
   - To obtain F2 seeds, F1 plants were self pollinated 
   - BC1 seeds: F1 hybrids x B. rapa 
   - The authors has investigated the early flowering phenomenon and assesed their sustainability in F1 hybrids. BrAGL20 gene has been transformed from B. napus to F1 hyrbids were found slightly later than early flowring, seed size were intermediated between the parental lines and pollen size were exhibited abnormal size. Furthermore, quantified erucic acid and fatty acid composition in F1 hybrid. The outcrossing rate of BC1 progeny as 50%. 
-
+ 
+ * Xiao et al. 2009_[Gene transferability from transgenic Brassica napus L. to various subspecies and varieties of Brassica rapa](https://link.springer.com/article/10.1007%2Fs11248-009-9261-4)
+  
+  - B. napus (GT73, and Ms8 x Rf3 donor) x B. rapa (118 cultivars, seed parent), control B. napus c.v. Zhongyou 821
+  - artificial emasculation and crossing
+  - F1 hybrids (34 corss combinations)
+  - This study, have been investigated the gene flow of transgeneic B. napus to B. rapa, through all the varieties were exhibited differe levels of crossabilities. Perhaps, heading type of B. rapa shows higher crossibility index than non heading type. Noteably, outcrossing rate between B. rapa and B. napus has recorded lower than previous records (Scott and Wilkinson, 1998) under natural conditions. Though, glufosinate resistant hybrids shows lack of homozygous herbicide resistant lines due to lower transgeneic pollen was observed in the resistant lines. Altogether, transgenic plant allowed under the threshold measures. 
 
 # 2. Brassica napus (GM) x B.rapa (F1 to F4)
 
@@ -86,12 +92,7 @@ The hybridization rate between wild population of B. rapa and HR B. napus in fie
   - Reciprocal crosses of GM canola B.napus (cv.raider) x B. rapa
   In this study, ecological effects of gene flow study in GM canola, B. rapa, with non GM B. napus and B. rapa using reciprocal crosses. In F1 hybrids seeds obatined higher percentage of viable seeds of the GM parent while using as pollen donor. Further will be evaluted in the succeeding F2 and Backcross populations.
   
-  Xiao et al. 2009_[Gene transferability from transgenic Brassica napus L. to various subspecies and varieties of Brassica rapa](https://link.springer.com/article/10.1007%2Fs11248-009-9261-4)
-  
-  - B. napus (GT73, and Ms8 x Rf3 donor) x B. rapa (118 cultivars, seed parent), control B. napus c.v. Zhongyou 821
-  - artificial emasculation and crossing
-  - F1 hybrids (34 corss combinations)
-  - This study, have been investigated the gene flow of transgeneic B. napus to B. rapa, through all the varieties were exhibited differe levels of crossabilities. Perhaps, heading type of B. rapa shows higher crossibility index than non heading type. Noteably, outcrossing rate between B. rapa and B. napus has recorded lower than previous records (Scott and Wilkinson, 1998) under natural conditions. Though, glufosinate resistant hybrids shows lack of homozygous herbicide resistant lines due to lower transgeneic pollen was observed in the resistant lines. Altogether, transgenic plant allowed under the threshold measures. 
+ 
 
 Warwik et al. 2008_[Do escaped transgenes persist in nature? The case of an herbicide resistance transgene in a weedy Brassica rapa population](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2007.03567.x)
 
