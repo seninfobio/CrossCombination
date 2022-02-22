@@ -151,7 +151,7 @@ Halfhill et al. 2003_[Additive transgene expression and genetic introgression in
 
 * Halfill et al. 2004_[Hybridization and backcrossing between transgenic oilseed rape and two related weed species under field conditions](https://www.ebr-journal.org/articles/ebr/pdf/2004/02/ebr0301.pdf)
 
-
+Londo et al. 2010_[Glyphosate drift promotes changes in fitness and transgene gene flow in canola (Brassica napus) and hybrids](https://academic.oup.com/aob/article/106/6/957/140295#83932276)
 
 * Allison et al. 2003_[Costs of transgenic herbicide resistance introgressed from Brassica napus into weedy B. rapa](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-294x.1999.00596.x)
 
