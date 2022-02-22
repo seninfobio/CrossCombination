@@ -78,10 +78,10 @@ The hybridization rate between wild population of B. rapa and HR B. napus in fie
  
  * Xiao et al. 2009_[Gene transferability from transgenic Brassica napus L. to various subspecies and varieties of Brassica rapa](https://link.springer.com/article/10.1007%2Fs11248-009-9261-4)
   
-  - B. napus (GT73, and Ms8 x Rf3 donor) x B. rapa (118 cultivars, seed parent), control B. napus c.v. Zhongyou 821
-  - artificial emasculation and crossing
-  - F1 hybrids (34 corss combinations)
-  - This study, have been investigated the gene flow of transgeneic B. napus to B. rapa, through all the varieties were exhibited differe levels of crossabilities. Perhaps, heading type of B. rapa shows higher crossibility index than non heading type. Noteably, outcrossing rate between B. rapa and B. napus has recorded lower than previous records (Scott and Wilkinson, 1998) under natural conditions. Though, glufosinate resistant hybrids shows lack of homozygous herbicide resistant lines due to lower transgeneic pollen was observed in the resistant lines. Altogether, transgenic plant allowed under the threshold measures. 
+    - B. napus (GT73, and Ms8 x Rf3 donor) x B. rapa (118 cultivars, seed parent), control B. napus c.v. Zhongyou 821
+    - artificial emasculation and crossing
+    - F1 hybrids (34 corss combinations)
+     - This study, have been investigated the gene flow of transgeneic B. napus to B. rapa, through all the varieties were exhibited differe levels of crossabilities. Perhaps, heading type of B. rapa shows higher crossibility index than non heading type. Noteably, outcrossing rate between B. rapa and B. napus has recorded lower than previous records (Scott and Wilkinson, 1998) under natural conditions. Though, glufosinate resistant hybrids shows lack of homozygous herbicide resistant lines due to lower transgeneic pollen was observed in the resistant lines. Altogether, transgenic plant allowed under the threshold measures. 
 
 # 2. Brassica napus (GM) x B.rapa (F1 to F4)
 
@@ -94,11 +94,11 @@ The hybridization rate between wild population of B. rapa and HR B. napus in fie
   
  
 
-Warwik et al. 2008_[Do escaped transgenes persist in nature? The case of an herbicide resistance transgene in a weedy Brassica rapa population](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2007.03567.x)
+* Warwik et al. 2008_[Do escaped transgenes persist in nature? The case of an herbicide resistance transgene in a weedy Brassica rapa population](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2007.03567.x)
 
-  - Brassica rapa and Brassica napus transgenic
-  - Field trails was taken 2002 to 2005
-  - The transgene of Herbicide resistant crop were assessed fitness of the different generations of intergrossed hybrids. The per se
+     - Brassica rapa and Brassica napus transgenic
+     - Field trails was taken 2002 to 2005
+     - The transgene of Herbicide resistant crop were assessed fitness of the different generations of intergrossed hybrids. The per se
 
 * Lee Bum-Kyu and Soo-In Sohn [Investigation of gene transfer through pollen from herbicide-resistant rapeseed to hybrids. Pollen-mediated Gene Flow from Herbicide Resistant Oilseed Rape (Brassica napus L.) to Its Relatives](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002485235
 
@@ -140,7 +140,7 @@ Warwik et al. 2008_[Do escaped transgenes persist in nature? The case of an herb
   - The BC1 plants more similar to B. rapa.. BC1 able to produce BC2 plants, indistinguishable from the B. rapa parent plants
   - selected through hygromycin plants were tested with Bt-specific primers. BC1 and BC2 plants got positive PCR product
 
-Halfhill et al. 2003_[Additive transgene expression and genetic introgression in multiple green-fluorescent protein transgenic crop × weed hybrid generations](https://link.springer.com/article/10.1007/s00122-003-1397-7#Sec3)
+* Halfhill et al. 2003_[Additive transgene expression and genetic introgression in multiple green-fluorescent protein transgenic crop × weed hybrid generations](https://link.springer.com/article/10.1007/s00122-003-1397-7#Sec3)
   - Primary transgenic events transformed with a plasmid-containing GFP (Aequorea victoria, mGFP5er variant) and Bt (Bacillus thuringiensis, synthetic Bt crylAc)
   - Nine transgenic GT (GT 1–9) lines and three GFP (GFP 1–3) were used in this study
   - Wild accessions of B. rapa were collected as naturally occurring populations
@@ -151,7 +151,7 @@ Halfhill et al. 2003_[Additive transgene expression and genetic introgression in
 
 * Halfill et al. 2004_[Hybridization and backcrossing between transgenic oilseed rape and two related weed species under field conditions](https://www.ebr-journal.org/articles/ebr/pdf/2004/02/ebr0301.pdf)
 
-Londo et al. 2010_[Glyphosate drift promotes changes in fitness and transgene gene flow in canola (Brassica napus) and hybrids](https://academic.oup.com/aob/article/106/6/957/140295#83932276)
+* Londo et al. 2010_[Glyphosate drift promotes changes in fitness and transgene gene flow in canola (Brassica napus) and hybrids](https://academic.oup.com/aob/article/106/6/957/140295#83932276)
 
 * Allison et al. 2003_[Costs of transgenic herbicide resistance introgressed from Brassica napus into weedy B. rapa](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-294x.1999.00596.x)
 
