@@ -85,7 +85,11 @@ The hybridization rate between wild population of B. rapa and HR B. napus in fie
 
 # 2. Brassica napus (GM) x B.rapa (F1 to F4)
 
-
+* Snow et al.2003_[Costs of transgenic herbicide resistance introgressed from Brassica napus into weedy B. rapa](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-294x.1999.00596.x)
+  - B. napus (maternal) x B. rapa (Paternal parent)
+  - F1 x B. rapa (BC1)
+  - Two BC1 x one B. rapa (BC2)
+  - Six BC2 x Six B. rapa (BC3)
 
 * Bautista et al. 2004_[HYBRIDIZATION STUDY BETWEEN GENETICALLY MODIFIED BRASSICA NAPUS AND NON-GENETICALLY MODIFIED B. NAPUS AND B. RAPA](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NHEERL&dirEntryId=89276) [ISHS conferenc paper presentation Joint Meeting of the 14th Crucifer Genetics Workshop and the 4th ISHS Sympos. on Brassicas, Daijon, Korea, Oct. 24-28, 2004]
   - Gene exchange between cultivated crops and wild species
@@ -121,11 +125,7 @@ The hybridization rate between wild population of B. rapa and HR B. napus in fie
   - 
   - In this study, the frequency of hybrids in F1 and BC1 progenies were higher than that of previous reports due to more stringent isolation for avoiding pollen contamination was implemented (Halfhill et al. 2001). 
 
-* Snow et al.2003_[Costs of transgenic herbicide resistance introgressed from Brassica napus into weedy B. rapa](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-294x.1999.00596.x)
-  - B. napus (maternal) x B. rapa (Paternal parent)
-  - F1 x B. rapa (BC1)
-  - Two BC1 x one B. rapa (BC2)
-  - Six BC2 x Six B. rapa (BC3)
+
   - 
   
   
