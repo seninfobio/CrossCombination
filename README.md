@@ -153,7 +153,6 @@ The hybridization rate between wild population of B. rapa and HR B. napus in fie
 
 * Londo et al. 2010_[Glyphosate drift promotes changes in fitness and transgene gene flow in canola (Brassica napus) and hybrids](https://academic.oup.com/aob/article/106/6/957/140295#83932276)
 
-* Allison et al. 2003_[Costs of transgenic herbicide resistance introgressed from Brassica napus into weedy B. rapa](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-294x.1999.00596.x)
 
 * Metz et al. 1996_[The impact on biosafety of the phosphinothricin-tolerance transgene in inter-specific B. rapa3B. napus hybrids and their successive backcrosses](https://link.springer.com/content/pdf/10.1007/s001220050581.pdf)
     - Two phosphinothricin (PPT)-tolerant oilseed rape (B. napus) transgenic R1 populations, obtained after selfing two primary transformants of cv Drakkar
