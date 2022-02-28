@@ -25,6 +25,16 @@
   - This study has assesed the impact of interspecific hybridization of weedy individuals which is flowered later and for longer periods were more likely to receive transgenic pollen transgeneic crops and F1 hybrids. wider stems are likely to receive transgenic pollens, transgene and maternal genes promoting late flowering time, long flowering periods, stem thickening, preferentially associated in the offspring of weedy mothers. weedy plants produced fewer seeds with the highest probability of hybridization. maternal weeds that flowered late and for long periods are less fit. Weedy plants are likely to alter phenological difference than transgenic palnts, altering the fitness of hybridizing weeds. 
 ref:[The Biology of Brassica napus L. (Canola/Rapeseed)](https://inspection.canada.ca/plant-varieties/plants-with-novel-traits/applicants/directive-94-08/biology-documents/brassica-napus-l-/eng/1330729090093/1330729278970)
 [Parental Selection of Hybrid Breeding Based On Maternal and Paternal Inheritance of Traits in Rapeseed (Brassica napus L.)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103165#s3)
+
+Brassica napus can spontaneously hybridize with B. rapa in greenhouse and field experiments (Jørgensen and Andersen, 1994; Landbo et al., 1996; Mikkelsen et al., 1996; Halfhill et al., 2002, 2004; Warwick et al., 2003; Wilkinson et al., 2003; Simard et al., 2006;).
+Fitness is a classified range of wide components for the full growth plants, which means vegetative growth, reproductive growth, male and female viability or fertility, seed dormancy were identified as most critical components for ecology crop relatives. 
+It depends on the ecology of crop relatives…Linder and Schmitt 1995, lifetime of fitness among Brassica napus x Brassica rapa hybrids much more influenced by their competitive stage were seed to seedling of their life cycle. 
+Hauser et al. 1998, fitness of hybrids depends on different components of the species, has to investment on survival vs reproduction, male vs female allocation. 
+There are few studies have been agreed directly to assessed the fitness of transgenic between wild crop hybrids (Linder and Schmitt, 1994; 1995; Snow et al. 1999; Spencer and Snow, 2001; Gueritaine et al. 2002)
+The fitness of plants, depends on traits of transgenes which is free living relatives like pharmaceutical chemicals, seed oil modification compounds 
+
+Early-generation backcrosses (BC1) between F1 hybrids and B. napus and B. rapa typically suffer reductions in fitness (Hauser et al., 1998b) but later-generation backcrosses (BC2, BC3) often recover fully (Snow et al., 1999).
+
 # 1. Brassica rapa x B. napus (GM) (F1 to F4)
 * For Ref only Non Transgenic material cross combinations
 
