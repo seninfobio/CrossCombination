@@ -249,6 +249,9 @@ The hybridization rate between wild population of B. rapa and HR B. napus in fie
   - Spontaneous hybridization frequency between B. juncea and B. napus (B. juncea x B. napus, mixed cultivation and isolated cultivation; Tsuda et al. (2012a), Heenan et al. (2007), Jørgensen et al. (1998), Huiming et al. (2007), Liu et al. (2010), Bing et al. (1991, 1996))
   - B. napus × B. juncea mixed cultivation (Heenan et al. (2007), Jørgensen et al. (1998), Bing et al. (1991, 1996))
 
+2.	Precocious/Cracked seeds
+Xiao et al (Xiao et al., 2009) has found high frequency (70%) of cracked seeds during the cross combination of B. rapa it leads to poor germination ability when serves as paternal parent in the F1 hybrids. Suggestively the cracked seeds in the pods are highly reliable to the genotype of the paternal parent. Similar reports were recorded from non-transgenic cross combinations interspecific hybrids (Hauser and Østergåurd, 1999)
+Another reason for cracked seeds may abortion of the fertilized embryos have occurred during the development stages to reduced ABA level. To prevent of this nature to increase the ABA levels (Black, 1991)       
 
 
 # References:
