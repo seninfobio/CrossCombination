@@ -35,6 +35,8 @@ The fitness of plants, depends on traits of transgenes which is free living rela
 
 Early-generation backcrosses (BC1) between F1 hybrids and B. napus and B. rapa typically suffer reductions in fitness (Hauser et al., 1998b) but later-generation backcrosses (BC2, BC3) often recover fully (Snow et al., 1999).
 
+2002_[A review of Brassica species, cross-pollination and implications for pure seed production in New Zealand ](https://www.agronomysociety.org.nz/files/2002_9._Review_-_Brassica_cross-pollination.pdf)
+
 # 1. Brassica rapa x B. napus (GM) (F1 to F4)
 * For Ref only Non Transgenic material cross combinations
 
