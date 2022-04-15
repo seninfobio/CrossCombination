@@ -43,6 +43,8 @@ Early-generation backcrosses (BC1) between F1 hybrids and B. napus and B. rapa t
   -1998_[Fitness of F1 hybrids between weedy Brassica rapa and oilseed rape (B. napus)](https://www.nature.com/articles/6884240)
   
   -1998_[Fitness of backcross and F2 hybrids between weedy Brassica rapa and oilseed rape (B. napus)](https://www.nature.com/articles/6884250)
+  - 1996_[Landbo L, Andersen B, Jrgensen RB (1996). Natural hybridisation between oilseed rape and a wild relative: hybrids among
+seeds from weedy Brassica campestris. Hereditas 125: 89–91](https://onlinelibrary.wiley.com/doi/10.1111/j.1601-5223.1996.00089.x)
               
 * Rose et. al. 2009_[Genetic load and transgenic mitigating genes in transgenic Brassica rapa (field mustard) × Brassica napus (oilseed rape) hybrid populations](https://bmcbiotechnol.biomedcentral.com/articles/10.1186/1472-6750-9-93#Abs1)
 
