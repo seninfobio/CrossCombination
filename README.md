@@ -99,7 +99,7 @@ The hybridization rate between wild population of B. rapa and HR B. napus in fie
 
 # 2. Brassica napus (GM) x B.rapa (F1 to F4)
 
-* Snow et al.2003_[Costs of transgenic herbicide resistance introgressed from Brassica napus into weedy B. rapa](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-294x.1999.00596.x)
+* Snow et al.1999_[Costs of transgenic herbicide resistance introgressed from Brassica napus into weedy B. rapa](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-294x.1999.00596.x)
   - B. napus (maternal) x B. rapa (Paternal parent)
   - F1 x B. rapa (BC1)
   - Two BC1 x one B. rapa (BC2)
