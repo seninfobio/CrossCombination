@@ -14,10 +14,7 @@
 * the gene flow
 * Overview of our study
 
-* 2003_Review[Crop-to-wild gene flow, introgression and possible fitness effects of transgenes](https://www.cambridge.org/core/journals/environmental-biosafety-research/article/croptowild-gene-flow-introgression-and-possible-fitness-effects-of-transgenes/6CAAF9128851C433A3F4288AF286F781)
-  - The production of F1 hybrids between crops and their wild relatives: insights into the nature and strength of reproductive barriers
-  - Fitness of wild crop hybrids
-  - Fitness effects of transgenes
+
 
 * 2011_[Impact of Interspecific Hybridization between Crops and Weedy Relatives on the Evolution of Flowering Time in Weedy Phenotypes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0014649#s4)
   - Three types of Trangenic plants: Bt-transgenic B. napus crop plants, Bt-transgenic B. napus × B. rapa F1 hybrids, and first-generation backcrosses (B. rapa ×F1 hybrids)
@@ -27,8 +24,10 @@
   - Transgenic B. napus (Wester) Btcry1AC gene
   - Every fourth day, all open flowers on all plants were hand pollinated-no natural polliantors in the Greenhouse
   - This study has assesed the impact of interspecific hybridization of weedy individuals which is flowered later and for longer periods were more likely to receive transgenic pollen transgeneic crops and F1 hybrids. wider stems are likely to receive transgenic pollens, transgene and maternal genes promoting late flowering time, long flowering periods, stem thickening, preferentially associated in the offspring of weedy mothers. weedy plants produced fewer seeds with the highest probability of hybridization. maternal weeds that flowered late and for long periods are less fit. Weedy plants are likely to alter phenological difference than transgenic palnts, altering the fitness of hybridizing weeds. 
+
 ref:[The Biology of Brassica napus L. (Canola/Rapeseed)](https://inspection.canada.ca/plant-varieties/plants-with-novel-traits/applicants/directive-94-08/biology-documents/brassica-napus-l-/eng/1330729090093/1330729278970)
-[Parental Selection of Hybrid Breeding Based On Maternal and Paternal Inheritance of Traits in Rapeseed (Brassica napus L.)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103165#s3)
+
+
 
 Brassica napus can spontaneously hybridize with B. rapa in greenhouse and field experiments (Jørgensen and Andersen, 1994; Landbo et al., 1996; Mikkelsen et al., 1996; Halfhill et al., 2002, 2004; Warwick et al., 2003; Wilkinson et al., 2003; Simard et al., 2006;).
 Fitness is a classified range of wide components for the full growth plants, which means vegetative growth, reproductive growth, male and female viability or fertility, seed dormancy were identified as most critical components for ecology crop relatives. 
